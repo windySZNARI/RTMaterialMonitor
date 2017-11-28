@@ -127,7 +127,7 @@ public:
     {
         if (RTMaterialMonitorClass->objectName().isEmpty())
             RTMaterialMonitorClass->setObjectName(QStringLiteral("RTMaterialMonitorClass"));
-        RTMaterialMonitorClass->resize(752, 456);
+        RTMaterialMonitorClass->resize(752, 460);
         gridLayout_7 = new QGridLayout(RTMaterialMonitorClass);
         gridLayout_7->setSpacing(6);
         gridLayout_7->setContentsMargins(11, 11, 11, 11);
